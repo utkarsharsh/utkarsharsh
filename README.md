@@ -1,3 +1,25 @@
+
+<p align="center">
+  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/54b6c068097599.5b50bca476b9b.gif" alt="Banner" width="100%" />
+</p>
+
+<h1 align="center">Hi 👋, I'm Utkarsh upadhyay</h1>
+
+<p align="center">
+  <a href="https://github.com/utkarsharsh"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Next.js+%7C+TypeScript+%7C+Node.js;Building+scalable+web+applications;SIH+2024+Winner+%F0%9F%8F%86" alt="Typing SVG" /></a>
+</p>
+
+<p align="center">
+  <a href="www.linkedin.com/in/utkarsh-upadhyay-756657259"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://leetcode.com/u/Utkarsh_7786/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/></a>
+  <a href="harshupadhyay7786@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+</p>
+
+
+
+---
+
+
 # 💫 About Me:
 🔭 I’m currently working on:<br>- Building scalable Full-Stack applications with Next.js, Node.js, and MongoDB<br>- Developing real-time applications using WebSockets and Socket.IO<br>- Creating backend-focused projects to strengthen system design concepts<br><br>🌱 I’m currently learning:<br>- Golang<br>- Microservices Architecture<br>- System Design<br>- Docker & CI/CD<br>- AWS Cloud Services<br><br>👯 I’m looking to collaborate on:<br>- Open Source Projects<br>- Full-Stack Web Applications<br>- Backend Engineering Projects<br><br>💬 Ask me about:<br>- JavaScript & TypeScript<br>- React & Next.js<br>- Node.js & Express<br>- MongoDB<br>- REST APIs<br>- DSA & Competitive Programming<br><br>⚡ Fun Fact:<br>I enjoy solving DSA problems and turning ideas into real-world applications.
 
