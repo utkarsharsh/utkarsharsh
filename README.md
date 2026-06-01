@@ -3,7 +3,7 @@
   <img src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/54b6c068097599.5b50bca476b9b.gif" alt="Banner" width="100%" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Utkarsh upadhyay</h1>
+<h1 align="center">Hi 👋, I'm Utkarsh Upadhyay</h1>
 
 <p align="center">
   <a href="https://github.com/utkarsharsh"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Next.js+%7C+TypeScript+%7C+Node.js;Building+scalable+web+applications;" alt="Typing SVG" /></a>
