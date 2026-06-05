@@ -23,7 +23,7 @@
 
 
 # 💫 About Me:
-🔭 I’m currently working on:<br>- Building scalable Full-Stack applications with Next.js, Node.js, and MongoDB<br>- Developing real-time applications using WebSockets and Socket.IO<br>- Creating backend-focused projects to strengthen system design concepts<br><br>🌱 I’m currently learning:<br>- Golang<br>- Microservices Architecture<br>- System Design<br>- Docker & CI/CD<br>- AWS Cloud Services<br><br>👯 I’m looking to collaborate on:<br>- Open Source Projects<br>- Full-Stack Web Applications<br>- Backend Engineering Projects<br><br>💬 Ask me about:<br>- JavaScript & TypeScript<br>- React & Next.js<br>- Node.js & Express<br>- MongoDB<br>- REST APIs<br>- DSA & Competitive Programming<br><br>⚡ Fun Fact:<br>I enjoy solving DSA problems and turning ideas into real-world applications.
+🔭 I’m currently working on:<br>- Building scalable Full-Stack applications with Next.js, Node.js, and MongoDB<br>- Developing real-time applications using WebSockets and Socket.IO<br>- Creating backend-focused projects to strengthen system design concepts<br><br>
 
 ## 💼 Experience
 
